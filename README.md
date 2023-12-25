@@ -1,4 +1,4 @@
- Snake: Snake drinks the Water, but it is killed by the Gun.
+ Snake: Snake drinks the Water, but it is killed by the Gun \n.
  Water: Water extinguishes the Gun, but it gets swallowed by the Snake.
  Gun: Gun kills the Snake, but it gets soaked by Water.
 
