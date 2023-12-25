@@ -1,3 +1,4 @@
+ # Snake , Water And Gun Game
  Snake: Snake drinks the Water, but it is killed by the Gun. <br />
  Water: Water extinguishes the Gun, but it gets swallowed by the Snake. <br />
  Gun: Gun kills the Snake, but it gets soaked by Water.<br />
